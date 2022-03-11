@@ -1,4 +1,4 @@
-# Team-Varad-feynn-lab-Bio-Tech-market-segmentation
+# Feynn-lab-Bio-Tech-market-segmentation
 real world project
 ## Problem Statement (Business Market) 
 
